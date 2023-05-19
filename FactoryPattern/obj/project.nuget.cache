@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zp6nOMnoYDjQKdALfgwu+4ZlYFmBj897hHZkyuJXDJgJvaajLER2uN1bHwBwxGliaHmGG/4HQR6u2TGPof6SWQ==",
+  "dgSpecHash": "eJkx84NQSLMWtTYS6tymDJfB5+AA6aiq95EYYOYi18D8f9gj822NLB0UjYlBnHcqii47h4mpuWL6SOiOfLt+jA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\foruk\\Source\\Repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
+  "projectFilePath": "C:\\Users\\foruk\\source\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

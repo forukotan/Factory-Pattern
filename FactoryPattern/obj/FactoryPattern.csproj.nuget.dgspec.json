@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\foruk\\Source\\Repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj": {}
+    "C:\\Users\\foruk\\source\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\foruk\\Source\\Repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj": {
+    "C:\\Users\\foruk\\source\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\foruk\\Source\\Repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
+        "projectUniqueName": "C:\\Users\\foruk\\source\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
         "projectName": "FactoryPattern",
-        "projectPath": "C:\\Users\\foruk\\Source\\Repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
+        "projectPath": "C:\\Users\\foruk\\source\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
         "packagesPath": "C:\\Users\\foruk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\foruk\\Source\\Repos\\Factory-Pattern\\FactoryPattern\\obj\\",
+        "outputPath": "C:\\Users\\foruk\\source\\repos\\Factory-Pattern\\FactoryPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\foruk\\AppData\\Roaming\\NuGet\\NuGet.Config",
